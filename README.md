@@ -4,7 +4,7 @@
 useState, useEffect, useReducer, useRef, forwardRef, useContext. 
 - Basic functionality of adding / removing dishes to / from the cart, a cart overlay, complex states management by using useReducer, practice of semantic HTML structure and proper React components arrangement. Overlay using Portals from ReactDOM to the real DOM.
 - Added a backend database using Firebase to fetch the menu dishes with GET requests, also using a form with proper use input validations and POST requests to store the data in the database.
-- Mainly for practice purposes, note that this project focus is on the backend therefore the data which is stored is not ideal and secured. Might be changed in the future.
+- This project is mainly for practice purposes, note that this project focuses on the frontend aspects therefore the data which is stored is not ideal and secured. Might be changed in the future.
 
 ---
 
